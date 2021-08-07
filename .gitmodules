@@ -1,0 +1,12 @@
+[submodule "BeautyLine"]
+	path = BeautyLine
+	url = https://gitlab.com/garuda-linux/themes-and-settings/artwork/beautyline.git
+[submodule "candy-icons"]
+	path = candy-icons
+	url = https://github.com/EliverLara/candy-icons.git
+[submodule "Sweet"]
+	path = Sweet
+	url = https://github.com/EliverLara/Sweet.git
+[submodule "Sweet-kde"]
+	path = Sweet-kde
+	url = https://github.com/EliverLara/Sweet-kde.git
