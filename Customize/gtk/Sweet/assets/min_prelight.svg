@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16mm"
+   height="16mm"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg955"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview957"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.4302469"
+     inkscape:cx="74.272289"
+     inkscape:cy="-61.722124"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs952">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient824"
+       id="linearGradient930"
+       x1="44.754131"
+       y1="458.00204"
+       x2="879.04962"
+       y2="458.00204"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-84.810096,-12.571622)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient824">
+      <stop
+         style="stop-color:#f7f206;stop-opacity:1"
+         offset="0"
+         id="stop820" />
+      <stop
+         style="stop-color:#ffbb24;stop-opacity:1"
+         offset="1"
+         id="stop822" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="hover-center"
+       transform="matrix(0.02211825,0,0,-0.02211836,-29.425394,16.185362)"
+       inkscape:export-filename="/media/binhtran432k/Media/Data/Sweet/Customize/aurorae/Sweet-Dark/hover-center.png"
+       inkscape:export-xdpi="50.800003"
+       inkscape:export-ydpi="50.800003">
+      <path
+         id="rect935-3-3"
+         style="opacity:0;fill:#000000;fill-opacity:0;stroke-width:45.3965;stroke-linecap:round;paint-order:stroke markers fill"
+         d="M 1333.6345,723.70073 H 2057.019 V 0.31951296 h -723.3845 z"
+         inkscape:export-filename="/media/binhtran432k/Media/Data/Sweet/Customize/aurorae/Sweet-Dark/g925.png"
+         inkscape:export-xdpi="192.00005"
+         inkscape:export-ydpi="192.00005" />
+      <g
+         id="g925"
+         inkscape:export-filename="/media/binhtran432k/Media/Data/Sweet/Customize/aurorae/Sweet-Dark/g925.png"
+         inkscape:export-xdpi="25.399984"
+         inkscape:export-ydpi="25.399984"
+         transform="matrix(0.69415076,0,0,0.69415076,1433.5682,52.814266)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 377.09152,-10.492672 c 251.80053,0 455.92531,204.124562 455.92531,455.925102 0,251.79626 -204.12478,455.92106 -455.92531,455.92106 -251.79947,0 -455.924836,-204.1248 -455.924836,-455.92106 0,-251.80054 204.125366,-455.925102 455.924836,-455.925102"
+           style="fill:#da9e10;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
+           id="path14-9" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 377.0939,28.282568 c 230.384,0 417.14563,186.762882 417.14563,417.150082 0,230.38293 -186.76163,417.1456 -417.14563,417.1456 -230.38293,0 -417.149866,-186.76267 -417.149866,-417.1456 0,-230.3872 186.766936,-417.150082 417.149866,-417.150082"
+           style="fill:url(#linearGradient930);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06667"
+           id="path16-6" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4186-7-3-3"
+           d="m 108.30832,445.42591 537.5669,0.009"
+           style="opacity:0.9;fill:#cd6e19;fill-opacity:1;fill-rule:evenodd;stroke:#975616;stroke-width:71.846;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

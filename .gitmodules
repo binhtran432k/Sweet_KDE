@@ -10,3 +10,12 @@
 [submodule "Sweet-kde"]
 	path = Sweet-kde
 	url = https://github.com/EliverLara/Sweet-kde.git
+[submodule "dracula/thunderbird"]
+	path = dracula/thunderbird
+	url = https://github.com/dracula/thunderbird.git
+[submodule "dracula/kate"]
+	path = dracula/kate
+	url = https://github.com/dracula/kate.git
+[submodule "Customize/yakuake/SierraSweet"]
+	path = Customize/yakuake/SierraSweet
+	url = https://github.com/binhtran432k/SierraSweet.git

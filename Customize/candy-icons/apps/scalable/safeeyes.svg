@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg7"
+   sodipodi:docname="safeeyes.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="48px"
+     inkscape:zoom="10.3125"
+     inkscape:cx="42.715152"
+     inkscape:cy="29.769697"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+    <linearGradient
+       id="_lgradient_19"
+       x1="0"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientTransform="scale(63.999998,63.599998)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#_lgradient_1">
+      <stop
+         offset="0%"
+         stop-opacity="1"
+         style="stop-color:#757fcb;stop-opacity:1"
+         id="stop14" />
+      <stop
+         offset="98.69565217391305%"
+         stop-opacity="1"
+         style="stop-color:rgb(215,221,232)"
+         id="stop16" />
+    </linearGradient>
+  </defs>
+  <path
+     id="path19"
+     style="isolation:isolate;fill:url(#_lgradient_19);stroke-width:1.33333;fill-opacity:1.0"
+     d="m 25.079999,57.759998 v 0 c 1.42,0.382667 2.262667,1.846667 1.88,3.266667 v 0 c -0.382666,1.42 -1.846666,2.262666 -3.266666,1.88 v 0 C 16.893333,61.079998 10.88,57.053332 6.6,51.466665 2.32,45.879999 0,39.039999 0,31.999999 0,23.519999 3.373333,15.373333 9.373333,9.3733331 15.373333,3.3733332 23.519999,0 31.999999,0 c 8.48,0 16.626666,3.3733332 22.626666,9.3733331 6,5.9999999 9.373333,14.1466659 9.373333,22.6266659 0,7.013333 -2.306666,13.826666 -6.546666,19.399999 -4.253333,5.573334 -10.213333,9.6 -16.973333,11.466667 v 0 c -1.42,0.390666 -2.889333,-0.446667 -3.28,-1.866667 v 0 c -0.390667,-1.42 0.446667,-2.889333 1.866667,-3.28 v 0 c 5.626666,-1.546666 10.599999,-4.906666 14.146666,-9.546666 3.533333,-4.653333 5.453333,-10.333333 5.453333,-16.173333 0,-7.066667 -2.813333,-13.853333 -7.813333,-18.853333 -5,-4.9999995 -11.786666,-7.8133328 -18.853333,-7.8133328 -7.066666,0 -13.853333,2.8133333 -18.853333,7.8133328 -5,5 -7.813333,11.786666 -7.813333,18.853333 0,5.866666 1.933333,11.573333 5.506667,16.226666 3.56,4.653333 8.573333,8.013333 14.239999,9.533333 z m 6.919879,-45.78661 v 20.000701 l 20.003408,0.0293 v -0.0293 c 0,-11.093586 -8.909518,-20.000698 -20.003408,-20.000698 z M 16.997322,27.003211 a 5.000852,5.0001751 0 0 0 -5.000852,5.000175 5.000852,5.0001751 0 0 0 5.000852,5.000176 5.000852,5.0001751 0 0 0 5.000852,-5.000176 5.000852,5.0001751 0 0 0 -5.000852,-5.000175 z m 15.002556,15.000526 a 5.000852,5.0001751 0 0 0 -5.000852,5.000175 5.000852,5.0001751 0 0 0 5.000852,5.000174 5.000852,5.0001751 0 0 0 5.000851,-5.000174 5.000852,5.0001751 0 0 0 -5.000851,-5.000175 z" />
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48pt"
+   height="48pt"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="folder.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="10.3125"
+     inkscape:cx="32"
+     inkscape:cy="31.951515"
+     inkscape:window-width="1600"
+     inkscape:window-height="848"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <linearGradient
+     id="_lgradient_7"
+     x1="0"
+     y1="0.5"
+     x2="1"
+     y2="0.5"
+     gradientTransform="matrix(45,0,0,34,1.229,7)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:rgb(0,255,255)"
+       id="stop2" />
+    <stop
+       offset="98.26086956521739%"
+       stop-opacity="1"
+       style="stop-color:rgb(165,83,168)"
+       id="stop4" />
+  </linearGradient>
+  <path
+     d="m 20.104,10.239 0.003,-0.002 25.816,0.02 c 0.169,10e-4 0.306,0.138 0.306,0.307 v 30.12 c 0,0.169 -0.137,0.306 -0.306,0.306 L 1.545,41 C 1.376,41 1.238,40.863 1.238,40.694 L 1.229,13.48 15.61,13.535 c 0.006,0 0.013,0 0.02,-10e-4 L 1.243,13.475 1.247,7.307 C 1.247,7.138 1.385,7 1.554,7 H 15.61 c 0.085,0 0.209,0.041 0.277,0.092 z"
+     fill-rule="evenodd"
+     fill="url(#_lgradient_7)"
+     id="path7"
+     style="fill:url(#_lgradient_7)" />
+</svg>
