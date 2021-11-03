@@ -1,21 +1,28 @@
 [submodule "BeautyLine"]
 	path = BeautyLine
 	url = https://gitlab.com/garuda-linux/themes-and-settings/artwork/beautyline.git
+	branch = master
 [submodule "candy-icons"]
 	path = candy-icons
 	url = https://github.com/EliverLara/candy-icons.git
+	branch = master
 [submodule "Sweet"]
 	path = Sweet
 	url = https://github.com/EliverLara/Sweet.git
+	branch = nova
 [submodule "Sweet-kde"]
 	path = Sweet-kde
 	url = https://github.com/EliverLara/Sweet-kde.git
+	branch = master
 [submodule "dracula/thunderbird"]
 	path = dracula/thunderbird
 	url = https://github.com/dracula/thunderbird.git
+	branch = master
 [submodule "dracula/kate"]
 	path = dracula/kate
 	url = https://github.com/dracula/kate.git
+	branch = master
 [submodule "Customize/yakuake/SierraSweet"]
 	path = Customize/yakuake/SierraSweet
 	url = https://github.com/binhtran432k/SierraSweet.git
+	branch = main
