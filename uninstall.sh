@@ -19,31 +19,46 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 	rm -r ${SDDM_DIR}/Sweet
 else
 	AURORAE_DIR="$HOME/.local/share/aurorae/themes"
-	SCHEMES_DIR="$HOME/.local/share/color-schemes"
-	PLASMA_DIR="$HOME/.local/share/plasma/desktoptheme"
-	LOOKFEEL_DIR="$HOME/.local/share/plasma/look-and-feel"
+	GTK_DIR="$HOME/.local/share/themes"
+	ICON_DIR="$HOME/.local/share/icons"
 	KVANTUM_DIR="$HOME/.config/Kvantum"
 	KONSOLE_DIR="$HOME/.local/share/konsole"
-	ICON_DIR="$HOME/.local/share/icons"
-	GTK_DIR="$HOME/.local/share/themes"
+	LOOKFEEL_DIR="$HOME/.local/share/plasma/look-and-feel"
+	PLASMA_DIR="$HOME/.local/share/plasma/desktoptheme"
+	SCHEMES_DIR="$HOME/.local/share/color-schemes"
 fi
 
 # Uninstall theme
 
+# Aurorae
+echo "Uninstalling aurorae..."
+rm -r ${AURORAE_DIR}/Sweet-Dark
+rm -r ${AURORAE_DIR}/Sweet-Dark-transparent
 # Color
-rm -r ${SCHEMES_DIR}/Sweet.colors
-# Plasma
-rm -r ${PLASMA_DIR}/Sweet
-# Look and feel
-rm -r ${LOOKFEEL_DIR}/com.github.eliverlara.Sweet
-# Kvantum
-rm -r ${KVANTUM_DIR}/Sweet
-# Konsole
-rm -r ${KONSOLE_DIR}/Sweet.colorscheme
+echo "Uninstalling colorschemes..."
+rm ${SCHEMES_DIR}/Sweet.colors
 # Cursors
+echo "Uninstalling cursors themes..."
 rm -r ${ICON_DIR}/Sweet-cursors
 # Icons
+echo "Uninstalling icons themes..."
+echo " - Uninstalling candy icons..."
 rm -r ${ICON_DIR}/candy-icons
+echo " - Uninstalling BeautyLine icons..."
 rm -r ${ICON_DIR}/BeautyLine
+# Konsole
+echo "Uninstalling konsole themes..."
+rm ${KONSOLE_DIR}/Sweet.colorscheme
+# Kvantum
+echo "Uninstalling kvantum themes..."
+rm -r ${KVANTUM_DIR}/Sweet
+rm -r ${KVANTUM_DIR}/Sweet-transparent-toolbar
+# Look and feel
+echo "Uninstalling look and feel themes..."
+rm -r ${LOOKFEEL_DIR}/com.github.eliverlara.Sweet
+# Plasma
+echo "Uninstalling plasma themes..."
+rm -r ${PLASMA_DIR}/Sweet
 # Themes
-#rm -r ${GTK_DIR}/Sweet
+echo "Uninstalling GTK themes..."
+rm -r ${GTK_DIR}/Sweet
